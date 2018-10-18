@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="forex4u.ir" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^J:\\Projects\\forex4u\\forex4u\\obj\\Release\\netcoreapp2\.0\\PubTmp\\Out\\$" />
+  </parameter>
+</parameters>

@@ -1,0 +1,4 @@
+Host:          .\MSSQLSERVER2017
+Database name: forexui1_forex4u
+User name:     forexui1_forex4u1396
+Password :     ?sMz603f

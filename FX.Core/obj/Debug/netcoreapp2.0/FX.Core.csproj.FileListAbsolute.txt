@@ -1,0 +1,9 @@
+c:\Users\mortaza\documents\visual studio 2017\Projects\forex4u\FX.Core\bin\Debug\netcoreapp2.0\FX.Core.deps.json
+c:\Users\mortaza\documents\visual studio 2017\Projects\forex4u\FX.Core\bin\Debug\netcoreapp2.0\FX.Core.dll
+c:\Users\mortaza\documents\visual studio 2017\Projects\forex4u\FX.Core\bin\Debug\netcoreapp2.0\FX.Core.pdb
+c:\Users\mortaza\documents\visual studio 2017\Projects\forex4u\FX.Core\obj\Debug\netcoreapp2.0\FX.Core.csproj.CoreCompileInputs.cache
+c:\Users\mortaza\documents\visual studio 2017\Projects\forex4u\FX.Core\obj\Debug\netcoreapp2.0\FX.Core.AssemblyInfoInputs.cache
+c:\Users\mortaza\documents\visual studio 2017\Projects\forex4u\FX.Core\obj\Debug\netcoreapp2.0\FX.Core.AssemblyInfo.cs
+c:\Users\mortaza\documents\visual studio 2017\Projects\forex4u\FX.Core\obj\Debug\netcoreapp2.0\FX.Core.dll
+c:\Users\mortaza\documents\visual studio 2017\Projects\forex4u\FX.Core\obj\Debug\netcoreapp2.0\FX.Core.pdb
+C:\Users\mortaza\documents\visual studio 2017\Projects\forex4u\FX.Core\obj\Debug\netcoreapp2.0\FX.Core.csprojResolveAssemblyReference.cache

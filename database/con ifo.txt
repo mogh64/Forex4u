@@ -1,0 +1,5 @@
+Host:          localhost
+Database name: forexuir_forex4u
+User name:     forexuir_forex4u1396
+Password :     ?sMz603f
+

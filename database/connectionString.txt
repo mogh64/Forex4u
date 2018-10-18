@@ -1,0 +1,8 @@
+Server con info:
+"Server=.;Initial Catalog=forexuir_forex4u;Persist Security Info=False;Trusted_Connection=false;user id=forexuir_forex4u1396;password=yTry67$6;TrustServerCertificate=False;MultipleActiveResultSets=true"
+
+
+
+local db con info:
+"Server=(localdb)\\MSSQLLocalDB;Initial Catalog=forex4u;Database=forex4u;Trusted_Connection=True;MultipleActiveResultSets=true"
+

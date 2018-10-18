@@ -1,0 +1,14 @@
+J:\Projects\forex4u\.vs\forex4u\lut\0\b\UnitTestProject1\Release\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+J:\Projects\forex4u\.vs\forex4u\lut\0\b\UnitTestProject1\Release\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+J:\Projects\forex4u\.vs\forex4u\lut\0\b\UnitTestProject1\Release\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+J:\Projects\forex4u\.vs\forex4u\lut\0\b\UnitTestProject1\Release\netcoreapp2.0\UnitTestProject1.deps.json
+J:\Projects\forex4u\.vs\forex4u\lut\0\b\UnitTestProject1\Release\netcoreapp2.0\UnitTestProject1.runtimeconfig.json
+J:\Projects\forex4u\.vs\forex4u\lut\0\b\UnitTestProject1\Release\netcoreapp2.0\UnitTestProject1.runtimeconfig.dev.json
+J:\Projects\forex4u\.vs\forex4u\lut\0\b\UnitTestProject1\Release\netcoreapp2.0\UnitTestProject1.dll
+J:\Projects\forex4u\.vs\forex4u\lut\0\b\UnitTestProject1\Release\netcoreapp2.0\UnitTestProject1.pdb
+J:\Projects\forex4u\.vs\forex4u\lut\0\i\UnitTestProject1\Release\netcoreapp2.0\UnitTestProject1.csprojResolveAssemblyReference.cache
+J:\Projects\forex4u\.vs\forex4u\lut\0\i\UnitTestProject1\Release\netcoreapp2.0\UnitTestProject1.csproj.CoreCompileInputs.cache
+J:\Projects\forex4u\.vs\forex4u\lut\0\i\UnitTestProject1\Release\netcoreapp2.0\UnitTestProject1.AssemblyInfoInputs.cache
+J:\Projects\forex4u\.vs\forex4u\lut\0\i\UnitTestProject1\Release\netcoreapp2.0\UnitTestProject1.AssemblyInfo.cs
+J:\Projects\forex4u\.vs\forex4u\lut\0\i\UnitTestProject1\Release\netcoreapp2.0\UnitTestProject1.dll
+J:\Projects\forex4u\.vs\forex4u\lut\0\i\UnitTestProject1\Release\netcoreapp2.0\UnitTestProject1.pdb

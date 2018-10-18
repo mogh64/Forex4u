@@ -1,0 +1,12 @@
+I:\Projects\forex4u\forex4u
+--output-path=obj\Release\netcoreapp2.0\
+--application-name=forex4u
+--content-root=I:\Projects\forex4u\forex4u
+--file=I:\Projects\forex4u\forex4u\Views\Home\About.cshtml
+--file=I:\Projects\forex4u\forex4u\Views\Home\Contact.cshtml
+--file=I:\Projects\forex4u\forex4u\Views\Home\Index.cshtml
+--file=I:\Projects\forex4u\forex4u\Views\Shared\Error.cshtml
+--file=I:\Projects\forex4u\forex4u\Views\Shared\_Layout.cshtml
+--file=I:\Projects\forex4u\forex4u\Views\Shared\_ValidationScriptsPartial.cshtml
+--file=I:\Projects\forex4u\forex4u\Views\_ViewImports.cshtml
+--file=I:\Projects\forex4u\forex4u\Views\_ViewStart.cshtml

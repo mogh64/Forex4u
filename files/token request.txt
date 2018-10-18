@@ -1,0 +1,4 @@
+Post Method Request Token :
+http://forex4u.ir/api/token
+Body data:
+{"username": "aa", "password": "123"}

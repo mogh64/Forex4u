@@ -1,0 +1,16 @@
+I:\Projects\forex4u\UnitTestProject1\obj\Debug\netcoreapp2.0\UnitTestProject1.csprojResolveAssemblyReference.cache
+I:\Projects\forex4u\UnitTestProject1\obj\Debug\netcoreapp2.0\UnitTestProject1.csproj.CoreCompileInputs.cache
+I:\Projects\forex4u\UnitTestProject1\obj\Debug\netcoreapp2.0\UnitTestProject1.AssemblyInfoInputs.cache
+I:\Projects\forex4u\UnitTestProject1\obj\Debug\netcoreapp2.0\UnitTestProject1.AssemblyInfo.cs
+I:\Projects\forex4u\UnitTestProject1\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+I:\Projects\forex4u\UnitTestProject1\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+I:\Projects\forex4u\UnitTestProject1\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+I:\Projects\forex4u\UnitTestProject1\bin\Debug\netcoreapp2.0\UnitTestProject1.deps.json
+I:\Projects\forex4u\UnitTestProject1\bin\Debug\netcoreapp2.0\UnitTestProject1.runtimeconfig.json
+I:\Projects\forex4u\UnitTestProject1\bin\Debug\netcoreapp2.0\UnitTestProject1.runtimeconfig.dev.json
+I:\Projects\forex4u\UnitTestProject1\bin\Debug\netcoreapp2.0\UnitTestProject1.dll
+I:\Projects\forex4u\UnitTestProject1\bin\Debug\netcoreapp2.0\UnitTestProject1.pdb
+I:\Projects\forex4u\UnitTestProject1\bin\Debug\netcoreapp2.0\forex4u.dll
+I:\Projects\forex4u\UnitTestProject1\bin\Debug\netcoreapp2.0\forex4u.pdb
+I:\Projects\forex4u\UnitTestProject1\obj\Debug\netcoreapp2.0\UnitTestProject1.dll
+I:\Projects\forex4u\UnitTestProject1\obj\Debug\netcoreapp2.0\UnitTestProject1.pdb

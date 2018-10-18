@@ -1,0 +1,35 @@
+C:\Users\mortaza\documents\visual studio 2017\Projects\forex4u\forex4u\bin\Any CPU\Release\netcoreapp2.0\forex4u.deps.json
+C:\Users\mortaza\documents\visual studio 2017\Projects\forex4u\forex4u\bin\Any CPU\Release\netcoreapp2.0\forex4u.runtimeconfig.json
+C:\Users\mortaza\documents\visual studio 2017\Projects\forex4u\forex4u\bin\Any CPU\Release\netcoreapp2.0\forex4u.runtimeconfig.dev.json
+C:\Users\mortaza\documents\visual studio 2017\Projects\forex4u\forex4u\bin\Any CPU\Release\netcoreapp2.0\forex4u.dll
+C:\Users\mortaza\documents\visual studio 2017\Projects\forex4u\forex4u\bin\Any CPU\Release\netcoreapp2.0\forex4u.pdb
+C:\Users\mortaza\documents\visual studio 2017\Projects\forex4u\forex4u\bin\Any CPU\Release\netcoreapp2.0\FX.Core.dll
+C:\Users\mortaza\documents\visual studio 2017\Projects\forex4u\forex4u\bin\Any CPU\Release\netcoreapp2.0\FX.Core.pdb
+C:\Users\mortaza\documents\visual studio 2017\Projects\forex4u\forex4u\obj\Any CPU\Release\netcoreapp2.0\forex4u.csprojResolveAssemblyReference.cache
+C:\Users\mortaza\documents\visual studio 2017\Projects\forex4u\forex4u\obj\Any CPU\Release\netcoreapp2.0\forex4u.csproj.CoreCompileInputs.cache
+C:\Users\mortaza\documents\visual studio 2017\Projects\forex4u\forex4u\obj\Any CPU\Release\netcoreapp2.0\forex4u.AssemblyInfoInputs.cache
+C:\Users\mortaza\documents\visual studio 2017\Projects\forex4u\forex4u\obj\Any CPU\Release\netcoreapp2.0\forex4u.AssemblyInfo.cs
+C:\Users\mortaza\documents\visual studio 2017\Projects\forex4u\forex4u\obj\Any CPU\Release\netcoreapp2.0\forex4u.dll
+C:\Users\mortaza\documents\visual studio 2017\Projects\forex4u\forex4u\obj\Any CPU\Release\netcoreapp2.0\forex4u.pdb
+J:\Projects\forex4u\forex4u\bin\Any CPU\Release\netcoreapp2.0\forex4u.deps.json
+J:\Projects\forex4u\forex4u\bin\Any CPU\Release\netcoreapp2.0\forex4u.runtimeconfig.json
+J:\Projects\forex4u\forex4u\bin\Any CPU\Release\netcoreapp2.0\forex4u.runtimeconfig.dev.json
+J:\Projects\forex4u\forex4u\bin\Any CPU\Release\netcoreapp2.0\forex4u.dll
+J:\Projects\forex4u\forex4u\bin\Any CPU\Release\netcoreapp2.0\forex4u.pdb
+J:\Projects\forex4u\forex4u\obj\Any CPU\Release\netcoreapp2.0\forex4u.csprojResolveAssemblyReference.cache
+J:\Projects\forex4u\forex4u\obj\Any CPU\Release\netcoreapp2.0\forex4u.csproj.CoreCompileInputs.cache
+J:\Projects\forex4u\forex4u\obj\Any CPU\Release\netcoreapp2.0\forex4u.AssemblyInfoInputs.cache
+J:\Projects\forex4u\forex4u\obj\Any CPU\Release\netcoreapp2.0\forex4u.AssemblyInfo.cs
+J:\Projects\forex4u\forex4u\obj\Any CPU\Release\netcoreapp2.0\forex4u.dll
+J:\Projects\forex4u\forex4u\obj\Any CPU\Release\netcoreapp2.0\forex4u.pdb
+I:\Projects\forex4u\forex4u\bin\Any CPU\Release\netcoreapp2.0\forex4u.deps.json
+I:\Projects\forex4u\forex4u\bin\Any CPU\Release\netcoreapp2.0\forex4u.runtimeconfig.json
+I:\Projects\forex4u\forex4u\bin\Any CPU\Release\netcoreapp2.0\forex4u.runtimeconfig.dev.json
+I:\Projects\forex4u\forex4u\bin\Any CPU\Release\netcoreapp2.0\forex4u.dll
+I:\Projects\forex4u\forex4u\bin\Any CPU\Release\netcoreapp2.0\forex4u.pdb
+I:\Projects\forex4u\forex4u\obj\Any CPU\Release\netcoreapp2.0\forex4u.csprojResolveAssemblyReference.cache
+I:\Projects\forex4u\forex4u\obj\Any CPU\Release\netcoreapp2.0\forex4u.csproj.CoreCompileInputs.cache
+I:\Projects\forex4u\forex4u\obj\Any CPU\Release\netcoreapp2.0\forex4u.AssemblyInfoInputs.cache
+I:\Projects\forex4u\forex4u\obj\Any CPU\Release\netcoreapp2.0\forex4u.AssemblyInfo.cs
+I:\Projects\forex4u\forex4u\obj\Any CPU\Release\netcoreapp2.0\forex4u.dll
+I:\Projects\forex4u\forex4u\obj\Any CPU\Release\netcoreapp2.0\forex4u.pdb
